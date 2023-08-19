@@ -10,6 +10,8 @@
 - [100 days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 
 ### My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ![Codewars](https://www.codewars.com/users/O4ErtO/badges/small)
