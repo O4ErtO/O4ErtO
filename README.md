@@ -15,7 +15,7 @@
 
 ![Codewars](https://www.codewars.com/users/O4ErtO/badges/small)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=O4ertO)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact With Me
 <div class="image-row">
