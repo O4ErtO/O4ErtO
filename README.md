@@ -10,7 +10,7 @@
 - [100 days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 
 ### My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O4ertO)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
