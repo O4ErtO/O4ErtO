@@ -10,7 +10,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=swift,py,cpp,js,firebase,figma,pr&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,py,cpp,figma,pr&perline=4)](https://skillicons.dev)
 
 ### Courses/books
 - [100 days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
